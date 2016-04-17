@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        Bypass Linkis
 // @namespace   http://github.com/kuropen/bypasslinkis
+// @author      Kuropen
 // @description Bypass Linkis links
 // @include     http://linkis.com/*
 // @version     1.0
