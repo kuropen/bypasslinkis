@@ -11,7 +11,10 @@ Users must keep a close watch for applications you have authorized on twitter.
 At least other users are annoyed at your tweet, when Linkis.com has permission to access your account.**
 
 ## Notice about environment
-This script is currently *only* tested with Greasemonkey on Firefox.
+This script is currently tested with:
+
+- Greasemonkey on Firefox
+- Tampermonkey on Google Chrome
 
 ## License
 You can use this program under the condition of [ISC License](https://en.wikipedia.org/wiki/ISC_license).
